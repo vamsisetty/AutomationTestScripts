@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/revdep/.cache.rds
+inst/doc
+
+.DS_Store
+*.code-workspace
+doc
+Meta
